@@ -4,37 +4,37 @@
 
 **Tippy** computes the tip and total amount for a bill. The app uses the base amount and tip percentage to calculate the amount owed, and it also describes the quality of service based on the tip.
 
-Time spent: **X** hours spent in total
+Time spent: 2 hours spent in total
 
 ## Functionality
 
 The following **required** functionality is completed:
 
-* [ ] User can enter in a bill amount (total amount to tip on)
-* [ ] User can enter a tip percentage (what % the user wants to tip).
-* [ ] The tip and total amount are updated immediately when any of the inputs changes.
-* [ ] The user sees a label or color update based on the tip amount.
+* [X] User can enter in a bill amount (total amount to tip on)
+* [X] User can enter a tip percentage (what % the user wants to tip).
+* [X] The tip and total amount are updated immediately when any of the inputs changes.
+* [X] The user sees a label or color update based on the tip amount.
 
 The following **extensions** are implemented:
 
-* [ ] Custom colors palette selected
-* [ ] List anything else that you did to improve the app functionality or design!
+* [X] Custom color palette selected
 
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://i.imgur.com/QNgvHJN.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-GIF created with [LiceCap](http://www.cockos.com/licecap/).
+GIF created with [Imgur](https://imgur.com/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+This was a great introduction for me to the world of Android mobile app development. If I had more
+time, I would have liked to use Emojis to describe the quality of the tip rather than text.
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright 2021 Johnny Armenta
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.

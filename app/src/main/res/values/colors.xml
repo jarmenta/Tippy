@@ -13,4 +13,11 @@
     <color name="background_blue">#EFECFB</color>
     <color name="color_worst_tip">#DC1E0B</color>
     <color name="color_best_tip">#35BA01</color>
+
+    // My added colors
+    <color name="aliceBlue">#edf2f4</color>
+    <color name="spaceCadet">#2b2d42</color>
+    <color name="manatee">#8d99ae</color>
+    <color name="darkLiver">#5a5353</color>
+
 </resources>
